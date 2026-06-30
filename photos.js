@@ -4,4 +4,6 @@ const PHOTOS = [
   "photos/tumtum2.jpg",
   "photos/tumtum3.jpg",
   "photos/tumtum4.jpg",
+  "photos/tumtum5.jpg",
+  "photos/tumtum6.jpg",
 ];
