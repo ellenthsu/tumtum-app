@@ -6,4 +6,5 @@ const PHOTOS = [
   "photos/tumtum4.jpg",
   "photos/tumtum5.jpg",
   "photos/tumtum6.jpg",
+  "photos/tumtum7.jpg",
 ];
